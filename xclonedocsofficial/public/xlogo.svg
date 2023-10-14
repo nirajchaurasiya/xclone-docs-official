@@ -1,36 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="shortcut icon" href="/xlogo.png" type="image/x-icon" />
-    <link rel="manifest" href="/manifest.json">
-    <title>Xclone - Docs (This page is in development)</title>
-    <style>
-      body {
-        background-color: #15202b;
-      }
-    </style>
-  </head>
-  <body>
-    <div id="root">
-      <div
-        style="
-          display: flex;
-          justify-content: center;
-          align-items: center;
-          padding-top: 15vh;
-          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-          font-weight: 900;
-          font-size: x-large;
-        "
-      >
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="40%" height="40%" viewBox="0 0 300.000000 300.000000"
+ width="300.000000pt" height="300.000000pt" viewBox="0 0 300.000000 300.000000"
  preserveAspectRatio="xMidYMid meet">
-
+<metadata>
+Created by potrace 1.10, written by Peter Selinger 2001-2011
+</metadata>
 <g transform="translate(0.000000,300.000000) scale(0.100000,-0.100000)"
-fill="white" stroke="none">
+fill="#000000" stroke="none">
 <path d="M1607 2143 c-17 -16 -4 -31 33 -36 89 -12 93 -55 14 -159 -31 -40
 -81 -106 -111 -145 -31 -40 -56 -73 -58 -73 -1 0 -44 63 -95 140 -52 77 -96
 138 -98 135 -7 -7 185 -285 196 -285 4 1 36 39 72 87 36 47 84 111 108 141 23
@@ -72,8 +50,3 @@ l6 22 14 -21 c8 -11 21 -20 29 -20 18 0 39 43 31 64 -7 19 -54 16 -67 -4 -8
 -6 63 -2 62 19 -3 40 -38 12 -47 12 -38 2z"/>
 </g>
 </svg>
-
-      </div>
-    </div>
-  </body>
-</html>
